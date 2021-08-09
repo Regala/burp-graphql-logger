@@ -1,1 +1,1 @@
-# burp-grahql-logger
+# Burp GraphQL Logger
